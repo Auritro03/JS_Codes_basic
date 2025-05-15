@@ -8,6 +8,6 @@
 
 const chacha = [122, 322, 432, 76, 342, 856]
 
- chacha [2] = 01
+//  chacha [2] = 01
 
-console.log(chacha)
+console.log(chacha [3])
